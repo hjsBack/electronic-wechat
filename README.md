@@ -103,3 +103,4 @@ brew cask install electronic-wechat
 #### License [MIT](LICENSE.md)
 
 *Electronic WeChat* is released by this open source project. While Web WeChat is a major component  in the app, it should be noted that this is a community release and not an official WeChat release.
+
